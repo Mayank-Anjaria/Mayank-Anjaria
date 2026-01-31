@@ -65,7 +65,11 @@ My interests lie at the intersection of **offensive & defensive security**, syst
 
 ## 🏴‍☠️ TryHackMe Profile
 
-[![TryHackMe Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5491576)](https://tryhackme.com)
+<a href="https://tryhackme.com/p/your-username" target="_blank">
+  <img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5491576"
+       alt="TryHackMe Badge"
+       width="300"/>
+</a>
 
 ---
 
