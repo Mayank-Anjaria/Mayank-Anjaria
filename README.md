@@ -1,16 +1,91 @@
-## Hi there 👋
+<h1 align="center">Mayank Anjaria</h1>
 
-<!--
-**Mayank-Anjaria/Mayank-Anjaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>Cybersecurity | Digital Forensics | Secure Systems</b>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  MSc Student in Digital Forensics & Information Security | Hands-on Cybersecurity Enthusiast
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+I am **Mayank Anjaria**, an MSc student in **Digital Forensics and Information Security** with a strong passion for cybersecurity, secure system design, and real-world security analysis.
+
+My interests lie at the intersection of **offensive & defensive security**, system internals, and forensic investigation. I enjoy learning through **CTFs, labs, and practical experimentation** rather than just theory.
+
+---
+
+## 🎓 Education
+
+- **MSc – Digital Forensics & Information Security**
+- Background in:
+  - Networking  
+  - Operating Systems  
+  - DBMS  
+  - Data Structures  
+  - Cybersecurity & Web Technologies  
+
+---
+
+## 🔍 Areas of Interest
+
+- 🔐 Cybersecurity & Network Security  
+- 🧠 Digital Forensics & Incident Response  
+- 🛡️ Web & System Security  
+- ⚙️ Embedded & Low-level Systems  
+- 🧪 Vulnerability Analysis & Exploitation  
+
+---
+
+## 🛠️ Skills & Technologies
+
+### Programming & Scripting
+- C, C++, Python  
+- Java, JavaScript  
+- Bash  
+
+### Security Tools & Platforms
+- Nmap, Wireshark  
+- Metasploit, Burp Suite  
+- TryHackMe, CTF challenges  
+
+### Web & Backend
+- HTML, CSS  
+- React, Django  
+- PHP  
+
+### Databases & Systems
+- MySQL, MongoDB  
+- Linux, Git  
+
+---
+
+## 🏴‍☠️ TryHackMe Profile
+
+[![TryHackMe Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5491576)](https://tryhackme.com)
+
+---
+
+## 📌 Current Focus
+
+- Strengthening core cybersecurity fundamentals  
+- Practicing real-world attack & defense techniques  
+- CTFs, labs, and security research  
+- Preparing for advanced cybersecurity roles  
+
+---
+
+## 🔗 Links & Contact
+
+- 💼 LinkedIn: https://linkedin.com/in/mayankanjaria  
+- 📧 Email: anjaria.mayank@yahoo.com  
+- 💻 GitHub: https://github.com/mayankanjaria  
+
+---
+
+<p align="center">
+  <i>"Security is not a product, it's a process."</i>
+</p>
