@@ -63,15 +63,12 @@ My interests lie at the intersection of **offensive & defensive security**, syst
 
 ---
 
-## 🏴‍☠️ TryHackMe Profile
+## 🏴‍☠️ TryHackMe
 
-<p align="center">
-  <a href="https://tryhackme.com/p/MayankAnjaria">
-    <img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5491576&style=card"
-         alt="TryHackMe Profile"
-         width="700"/>
-  </a>
-</p>
+- Profile: https://tryhackme.com/p/MayankAnjaria  
+- Actively solving rooms & maintaining streaks  
+- Focus: Web, Linux, Networking, Privilege Escalation
+
 
 ---
 
