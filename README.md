@@ -85,7 +85,7 @@ My interests lie at the intersection of **offensive & defensive security**, syst
 
 - 💼 LinkedIn: https://linkedin.com/in/mayankanjaria  
 - 📧 Email: anjaria.mayank@yahoo.com  
-- 💻 GitHub: https://github.com/mayankanjaria  
+- 💻 GitHub: https://github.com/Mayank-Anjarua  
 
 ---
 
